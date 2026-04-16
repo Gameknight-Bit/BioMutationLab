@@ -1,9 +1,9 @@
 from Bio import SeqIO
 
-
+FirstPath = "FirstSeq"
 
 # Load the .ab1 file
-filename = ""
+filename = FirstPath + "/ab1_files/Kangas7925_G11-1_R1-16S-rRNA-seqF.ab1"
 record = SeqIO.read(filename, "abi")
 
 # Access raw trace data
@@ -19,7 +19,17 @@ channel_T = trace_data['DATA12']
 
 # Access peak locations (PLOC)
 peak_locations = trace_data['PLOC1']
+print("Peak locations:", peak_locations)
 
-# Example: Get signal strength for A at the 10th peak
-# location = peak_locations[9]
-# strength = channel_A[location]
+# So if we can copy this code and do it for all "valid" location peaks across all files, then we can
+# compare the signal strength differences across locations (and the most different from our control gives
+# use the most likely mutation location)
+location = 4
+strength = channel_A[peak_locations[location]]
+print(f"Signal strength for A at {location}th peak:", strength)
+strength = channel_C[peak_locations[location]]
+print(f"Signal strength for C at {location}th peak:", strength)
+strength = channel_G[peak_locations[location]]
+print(f"Signal strength for G at {location}th peak:", strength)
+strength = channel_T[peak_locations[location]]
+print(f"Signal strength for T at {location}th peak:", strength)
