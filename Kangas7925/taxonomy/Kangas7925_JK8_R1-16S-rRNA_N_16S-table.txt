@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7925_JK8_R1-16S-rRNA-seqF	1174	gi|1441204318|ref|NR_157733.1|	1509	1	1174	69	1239	0.0	1944	1174	1131	96.337	40	3	2026187	Bacillus pacificus strain MCCC 1A06182 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_JK8_R1-16S-rRNA-seqF	1174	gi|1441204313|ref|NR_157728.1|	1509	1	1174	69	1239	0.0	1944	1174	1131	96.337	40	3	2026186	Bacillus paranthracis strain MCCC 1A00395 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_JK8_R1-16S-rRNA-seqF	1174	gi|659364953|ref|NR_121761.1|	1544	1	1174	66	1236	0.0	1939	1174	1130	96.252	41	3	155322	Bacillus toyonensis strain BCT-7112 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_JK8_R1-16S-rRNA-seqF	1174	gi|343202909|ref|NR_043403.1|	1486	1	1174	49	1219	0.0	1939	1174	1130	96.252	41	3	1428	Bacillus thuringiensis strain IAM 12077 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_JK8_R1-16S-rRNA-seqF	1174	gi|636558524|ref|NR_114581.1|	1482	1	1174	59	1229	0.0	1939	1174	1130	96.252	41	3	1428	Bacillus thuringiensis strain ATCC 10792 16S ribosomal RNA, partial sequence	plus	100

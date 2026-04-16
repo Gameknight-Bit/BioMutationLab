@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7925_JK12_R1-16S-rRNA-seqF	742	gi|1315204023|ref|NR_152692.1|	1540	1	739	222	960	0.0	1306	739	732	99.053	7	0	1890302	Bacillus wiedmannii strain FSL W8-0169 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK12_R1-16S-rRNA-seqF	742	gi|1441204321|ref|NR_157736.1|	1509	1	739	222	960	0.0	1306	739	732	99.053	7	0	2026188	Bacillus tropicus strain MCCC 1A01406 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK12_R1-16S-rRNA-seqF	742	gi|1441204320|ref|NR_157735.1|	1509	1	739	222	960	0.0	1306	739	732	99.053	7	0	2026192	Bacillus proteolyticus strain MCCC 1A00365 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK12_R1-16S-rRNA-seqF	742	gi|1441204319|ref|NR_157734.1|	1509	1	739	222	960	0.0	1306	739	732	99.053	7	0	2026194	Bacillus paramycoides strain MCCC 1A04098 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK12_R1-16S-rRNA-seqF	742	gi|1441204318|ref|NR_157733.1|	1509	1	739	222	960	0.0	1306	739	732	99.053	7	0	2026187	Bacillus pacificus strain MCCC 1A06182 16S ribosomal RNA, partial sequence	plus	99

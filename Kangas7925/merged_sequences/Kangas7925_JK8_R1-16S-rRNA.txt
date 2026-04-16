@@ -1,0 +1,127 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Kangas7925_JK8_R1-16S-rRNA-seqF
+# 2: Kangas7925_JK8_R1-16S-rRNA-seqR
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1174
+# Identity:     316/1174 (26.9%)
+# Similarity:   316/1174 (26.9%)
+# Gaps:         853/1174 (72.7%)
+# Score: 1560.0
+# 
+#
+#=======================================
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    819 tgagagcttgctctcaccaagttagcggnggncgggtgagnnacacgnng    770
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    769 gtaacctncccataagantgggataantctgggaaaccggggctnatacc    720
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    719 ggataacatnttgaaccgcatggttngaaattgaaaggcggcttcggctg    670
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    669 tcacttatggatggacccgcgtcgcattanntagttggtgaggtaacggc    620
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    619 tcnccaaggcaacgatgcgtagccgacctgagagggtgatcggccacact    570
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    569 gggactgagacacggcccagacttcnncgggaggcagcagtagggaatct    520
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    519 tccgcaatggacgaaagtctgacggagcaacgccgcgtgagtgatgaagg    470
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    469 ctttcgggtcgtaaaactctgttgttagggaagaacaagtgctagttgaa    420
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    419 taagctggcaccttgacggtacctaaccagaaagccacggctaactacgt    370
+
+Kangas7925_JK      1 ------------------------------------------------tt      2
+                                                                     |.
+Kangas7925_JK    369 gccagcagccgcggtaatacgtaggtggcaagcgttatccggaattattg    320
+
+Kangas7925_JK      3 gggcgtaagcgcgcgcaggtggtttcttaagtctgatgtgaaagcccacg     52
+                     ||....||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    319 ggcgtaaagcgcgcgcaggtggtttcttaagtctgatgtgaaagcccacg    270
+
+Kangas7925_JK     53 gctcaaccgtggagggtcattggaaactgggagacttgagtgcagaagag    102
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    269 gctcaaccgtggagggtcattggaaactgggagacttgagtgcagaagag    220
+
+Kangas7925_JK    103 gaaagtggaattccatgtgtagcggtgaaatgcgtagagatatggaggaa    152
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    219 gaaagtggaattccatgtgtagcggtgaaatgcgtagagatatggaggaa    170
+
+Kangas7925_JK    153 caccagtggcgaaggcgactttctggtctgtaactgacactgaggcgcga    202
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    169 caccagtggcgaaggcgactttctggtctgtaactgacactgaggcgcga    120
+
+Kangas7925_JK    203 aagcgtggggagcaaacaggattagataccctggtagtccacgccgtaaa    252
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    119 aagcgtggggagcaaacaggattagataccctggtagtccacgccgtaaa     70
+
+Kangas7925_JK    253 cgatgagtgctaagtgttagagggtttccgccctttagtgctgaagttaa    302
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK     69 cgatgagtgctaagtgttagagggtttccgccctttagtgctgaagttaa     20
+
+Kangas7925_JK    303 cgcattaagcactccgcctggggagtacggccgcaaggctgaaactcaaa    352
+                     |||||||||||||||||||                               
+Kangas7925_JK     19 cgcattaagcactccgcct-------------------------------      1
+
+Kangas7925_JK    353 ggaattgacgggggcccgcacaagcggtggagcatgtggtttaattcnaa    402
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    403 gcaacgcgaagaaccttaccaggtcttgacatcctctgaaaaccctagag    452
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    453 atagggcttctccttcgggagcagagtgacaggtggtgcatgnttgtcgn    502
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    503 cagctcgtgtcgtgagatgttgggttaagncncncnacganngnnnccct    552
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    553 tgatcttagttgccatcattaagttgggcactctaaggtgactgcgggtg    602
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    603 acaannngnagngagggtgggggatgacgtcaaatcntcatgccncctta    652
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    653 tgacctgggctacacacgtgctac    676
+                                             
+Kangas7925_JK      0 ------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts: Kangas7925_JK8_ Kangas7925_JK8_
+#              position base   position base Using
+#                     2  't'        500  'G'   'G'
+#                     5  'g'        503  'C'   'C'
+#                     6  'c'        504  'G'   'G'
+#                     7  'g'        505  'T'   'T'
+#                     8  't'        506  'A'   'A'
+# 
+#
+#---------------------------------------

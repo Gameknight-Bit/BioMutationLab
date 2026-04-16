@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7925_JK11_R1-16S-rRNA-seqF	1496	gi|219846332|ref|NR_025922.1|	1470	8	1477	1	1470	0.0	2645	1470	1468	99.864	2	0	1292	Staphylococcus warneri strain AW 25 16S ribosomal RNA, partial sequence	plus	98
+Kangas7925_JK11_R1-16S-rRNA-seqF	1496	gi|219856850|ref|NR_024669.1|	1494	2	1481	15	1494	0.0	2630	1480	1471	99.392	9	0	45972	Staphylococcus pasteuri strain ATCC 51129 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK11_R1-16S-rRNA-seqF	1496	gi|636560567|ref|NR_116627.1|	1537	2	1496	16	1508	0.0	2582	1495	1471	98.395	22	2	586733	Staphylococcus devriesei strain KS-SP 60 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK11_R1-16S-rRNA-seqF	1496	gi|219856849|ref|NR_024668.1|	1492	2	1481	15	1492	0.0	2573	1480	1459	98.581	19	2	28035	Staphylococcus lugdunensis strain ATCC 43809 16S ribosomal RNA, partial sequence	plus	99
+Kangas7925_JK11_R1-16S-rRNA-seqF	1496	gi|1270533082|ref|NR_074999.2|	1553	2	1496	22	1515	0.0	2572	1495	1468	98.194	26	1	342451	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 = NCTC 7292 16S ribosomal RNA, complete sequence	plus	99

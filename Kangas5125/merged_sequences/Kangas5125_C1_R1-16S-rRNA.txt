@@ -1,0 +1,143 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Kangas5125_C1_R1-16S-rRNA-seqF
+# 2: Kangas5125_C1_R1-16S-rRNA-seqR
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1439
+# Identity:     333/1439 (23.1%)
+# Similarity:   333/1439 (23.1%)
+# Gaps:        1106/1439 (76.9%)
+# Score: 1615.0
+# 
+#
+#=======================================
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    862 ggcgtgcctaatacatgcaagtcgagcgaacagacgaggagcttgctcct    813
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    812 ttgacgttagcggcggacgggtgagtaacacgtaggtaacctacctataa    763
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    762 gactgggataacttcgggaaaccggagctaataccggataatatttcgaa    713
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    712 ccgcatggttcgatagtgaaagatggctttgctatcacttatagatggac    663
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    662 ctgcgccgtattagctagttggtaaggtaacggcttaccaaggcaacgat    613
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    612 acgtagccgacctgagagggtgatcggccacactggaactgagacacggt    563
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    562 ccagactcctacgggaggcagcagtagggaatcttccgcaatgggcgaaa    513
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    512 gcctgacggagcaacgccgcgtgagtgatgaaggtcttcggatcgtaaaa    463
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    462 ctctgttattagggaagaacaaacgtgtaagtaactgtgcacgtcttgac    413
+
+Kangas5125_C1      1 --------------------------------------------------      0
+                                                                       
+Kangas5125_C1    412 ggtacctaatcagaaagccacggctaactacgtgccagcagccgcggtaa    363
+
+Kangas5125_C1      1 ----------------------------tattgggcgt-aagcgcgcgta     21
+                                                 |||||||||| |||||||||||
+Kangas5125_C1    362 tacgtaggtggcaagcgttatccggaattattgggcgtaaagcgcgcgta    313
+
+Kangas5125_C1     22 ggcggttttttaagtctgatgtgaaagcccacggctcaaccgtggagggt     71
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1    312 ggcggttttttaagtctgatgtgaaagcccacggctcaaccgtggagggt    263
+
+Kangas5125_C1     72 cattggaaactggaaaacttgagtgcagaagaggaaagtggaattccatg    121
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1    262 cattggaaactggaaaacttgagtgcagaagaggaaagtggaattccatg    213
+
+Kangas5125_C1    122 tgtagcggtgaaatgcgcagagatatggaggaacaccagtggcgaaggcg    171
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1    212 tgtagcggtgaaatgcgcagagatatggaggaacaccagtggcgaaggcg    163
+
+Kangas5125_C1    172 actttctggtctgtaactgacgctgatgtgcgaaagcgtggggatcaaac    221
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1    162 actttctggtctgtaactgacgctgatgtgcgaaagcgtggggatcaaac    113
+
+Kangas5125_C1    222 aggattagataccctggtagtccacgccgtaaacgatgagtgctaagtgt    271
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1    112 aggattagataccctggtagtccacgccgtaaacgatgagtgctaagtgt     63
+
+Kangas5125_C1    272 tagggggtttccgccccttagtgctgcagctaacgcattaagcactccgc    321
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas5125_C1     62 tagggggtttccgccccttagtgctgcagctaacgcattaagcactccgc     13
+
+Kangas5125_C1    322 ctggggagtacgaccgcaaggttgaaactcaaaggaattgacggggaccc    371
+                     ||||||||||||                                      
+Kangas5125_C1     12 ctggggagtacg--------------------------------------      1
+
+Kangas5125_C1    372 gcacaagcggtggagcatgtggtttaattcgaagcaacgcgaagaacctt    421
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    422 accaaatcttgacatcctttgacccttctagagatagaagtttccccttc    471
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    472 gggggacaaagtgacaggtggtgcatggttgtcgtcagctcgtgtcgtga    521
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    522 gatgttgggttaagtcccgcaacgagcgcaacccttaagcttagttgcca    571
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    572 tcattaagttgggcactctaagttgactgccggtgacaaaccggaggaag    621
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    622 gtggggatgacgtcaaatcatcatgccccttatgatttgggctacacacg    671
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    672 tgctacaatggacaatacaaagggcagcgaaaccgcgaggtcaagcaaat    721
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    722 cccataaagttgttctcagttcggattgtagtctgcaactcgactacatg    771
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    772 aagctggaatcgctagtaatcgtagatcagcatgctacggtgaatacgtt    821
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    822 cccgggtcttgnacacaccgcccgtcacaccacgagagtttgtaacaccc    871
+                                                                       
+Kangas5125_C1      0 --------------------------------------------------      1
+
+Kangas5125_C1    872 gaagccggtggagtaaccatttggagctagccgtcgaag    910
+                                                            
+Kangas5125_C1      0 ---------------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts: Kangas5125_C1_R Kangas5125_C1_R
+#              position base   position base Using
+#                    11  '.'        539  'A'   'A'
+# 
+#
+#---------------------------------------

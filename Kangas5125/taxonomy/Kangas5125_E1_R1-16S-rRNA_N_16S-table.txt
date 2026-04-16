@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas5125_E1_R1-16S-rRNA-seqF	1453	gi|645320409|ref|NR_117621.1|	1530	4	1453	15	1464	0.0	2616	1450	1450	100.000	0	0	981326	Acinetobacter pittii DSM 21653 strain ATCC 19004 16S ribosomal RNA, partial sequence	plus	99
+Kangas5125_E1_R1-16S-rRNA-seqF	1453	gi|343201661|ref|NR_042387.1|	1516	4	1453	6	1455	0.0	2616	1450	1450	100.000	0	0	471	Acinetobacter calcoaceticus strain NCCB 22016 16S ribosomal RNA, partial sequence	plus	99
+Kangas5125_E1_R1-16S-rRNA-seqF	1453	gi|507148007|ref|NR_102814.1|	1537	4	1453	21	1470	0.0	2611	1450	1449	99.931	1	0	1148157	Acinetobacter oleivorans strain DR1 16S ribosomal RNA, partial sequence	plus	99
+Kangas5125_E1_R1-16S-rRNA-seqF	1453	gi|636560714|ref|NR_116774.1|	1533	4	1453	16	1466	0.0	2605	1451	1449	99.862	1	1	981326	Acinetobacter pittii DSM 21653 strain CIP 70.29 16S ribosomal RNA, partial sequence	plus	99
+Kangas5125_E1_R1-16S-rRNA-seqF	1453	gi|636559979|ref|NR_116039.1|	1460	10	1453	1	1444	0.0	2582	1444	1439	99.654	5	0	1148157	Acinetobacter oleivorans strain DR1 16S ribosomal RNA, partial sequence	plus	99

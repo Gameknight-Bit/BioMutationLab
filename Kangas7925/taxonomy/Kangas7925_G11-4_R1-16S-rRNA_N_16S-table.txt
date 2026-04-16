@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7925_G11-4_R1-16S-rRNA-seqF	1443	gi|631252759|ref|NR_113957.1|	1476	1	1443	9	1451	0.0	2599	1443	1442	99.931	1	0	1282	Staphylococcus epidermidis strain NBRC 100911 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_G11-4_R1-16S-rRNA-seqF	1443	gi|310975040|ref|NR_036904.1|	1475	1	1443	11	1453	0.0	2599	1443	1442	99.931	1	0	1282	Staphylococcus epidermidis strain Fussel 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_G11-4_R1-16S-rRNA-seqF	1443	gi|228715347|ref|NR_027519.1|	1492	1	1443	29	1471	0.0	2576	1443	1437	99.584	6	0	74703	Staphylococcus capitis subsp. urealyticus strain MAW 8436 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_G11-4_R1-16S-rRNA-seqF	1443	gi|631252150|ref|NR_113348.1|	1473	1	1443	9	1451	0.0	2567	1443	1435	99.446	8	0	29388	Staphylococcus capitis strain JCM 2420 16S ribosomal RNA, partial sequence	plus	100
+Kangas7925_G11-4_R1-16S-rRNA-seqF	1443	gi|219856846|ref|NR_024665.1|	1492	1	1443	29	1471	0.0	2567	1443	1435	99.446	8	0	29380	Staphylococcus caprae strain ATCC 35538 16S ribosomal RNA, partial sequence	plus	100

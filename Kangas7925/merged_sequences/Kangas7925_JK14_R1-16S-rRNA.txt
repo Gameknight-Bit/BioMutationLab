@@ -1,0 +1,129 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Kangas7925_JK14_R1-16S-rRNA-seqF
+# 2: Kangas7925_JK14_R1-16S-rRNA-seqR
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1247
+# Identity:     319/1247 (25.6%)
+# Similarity:   319/1247 (25.6%)
+# Gaps:         926/1247 (74.3%)
+# Score: 1537.0
+# 
+#
+#=======================================
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    703 gaatcgcatggttcaatagtgaaagatggttttnctatcacttatagatg    654
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    653 gacccgcgccgtattagctagttggtaaggtaacggcttaccaaggcgac    604
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    603 gatacgtagccgncctgagagggtgatcggccacactggaactgagacac    554
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    553 ggtccagactcctacgggaggcagcagtagggaatcttccgcaatgggcg    504
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    503 aaagcctgacggagcaacgccgcgtgagtgatgaaggtcttcggatcgta    454
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    453 aaactctgttattagggaagaacatacgtgtaagtatctatgcacatctt    404
+
+Kangas7925_JK      1 --------------------------------------------------      0
+                                                                       
+Kangas7925_JK    403 gacggtacctaatcagaaagccacggctaactacgtgccagcagccgcgg    354
+
+Kangas7925_JK      1 -------------------------------tattgggcgt-aagcgcgc     18
+                                                    |||||||||| ||||||||
+Kangas7925_JK    353 taatacgtaggtggcaagcgttatccggaattattgggcgtaaagcgcgc    304
+
+Kangas7925_JK     19 gtaggcggttttttaagtctgatgtgaaagcccacggctcaaccgtggag     68
+                     ||||||||||||||||||.|||||||||||||||||||||||||||||||
+Kangas7925_JK    303 gtaggcggttttttaagtttgatgtgaaagcccacggctcaaccgtggag    254
+
+Kangas7925_JK     69 ggtcattggaaactggaaaacttgagtgcagaagaggaaagtggaattcc    118
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    253 ggtcattggaaactggaaaacttgagtgcagaagaggaaagtggaattcc    204
+
+Kangas7925_JK    119 atgtgtagcggtgaaatgcgcagagatatggaggaacaccagtggcgaag    168
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    203 atgtgtagcggtgaaatgcgcagagatatggaggaacaccagtggcgaag    154
+
+Kangas7925_JK    169 gcgactttctggtctgtaactgacgctgatgtgcgaaagcgtggggatca    218
+                     ||||||||.|||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    153 gcgactttttggtctgtaactgacgctgatgtgcgaaagcgtggggatca    104
+
+Kangas7925_JK    219 aacaggattagataccctggtagtccacgccgtaaacgatgagtgctaag    268
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK    103 aacaggattagataccctggtagtccacgccgtaaacgatgagtgctaag     54
+
+Kangas7925_JK    269 tgttagggggtttccgccccttagtgctgcagctaacgcattaagcactc    318
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7925_JK     53 tgttagggggtttccgccccttagtgctgcagctaacgcattaagcactc      4
+
+Kangas7925_JK    319 cgcctggggagtacgaccgcaaggttgaaactcaaaggaattgacgggga    368
+                     |||                                               
+Kangas7925_JK      3 cgc-----------------------------------------------      1
+
+Kangas7925_JK    369 cccgcacaagcggtggagcatgtggtttaattcgaagcaacgcgaagaac    418
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    419 cttaccaaatcttgacatcctttgacaactctagagatagagccttcccc    468
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    469 ttcgggggacaaagtgacaggtggtgcatggttgtcgtcagctcgtgtcg    518
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    519 agagatgttgggttaagtcccgcaacgagcgcaacccttaagcttatttg    568
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    569 ccatcattaagttgggcactctaagttgactgccggtgacaaaccggagg    618
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    619 aaggtggggatgacgtcaaatcatcatgccccttatgatttgggctacac    668
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    669 acgtgctacaatggacaatacaaagggcagctannccgcgaggtcaagca    718
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    719 aatcccataaagttgttctcagttcggattgnagtctgcaactcgactac    768
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    769 atgaagctggaatcgctagtaatcgnagatcagnatgctacggtgaatac    818
+                                                                       
+Kangas7925_JK      0 --------------------------------------------------      1
+
+Kangas7925_JK    819 gttcccgggtcttgtacacnccgcccgtcacaccacgagagtttgta    865
+                                                                    
+Kangas7925_JK      0 -----------------------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts: Kangas7925_JK14 Kangas7925_JK14
+#              position base   position base Using
+#                    11  '.'        392  'A'   'A'
+#                    37  'C'        419  't'   'C'
+#                   177  'C'        559  't'   'C'
+# 
+#
+#---------------------------------------
