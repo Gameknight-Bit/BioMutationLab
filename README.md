@@ -1,3 +1,4 @@
 Make sure to make a venv with "$python3 -m venv venv"!
 
-Then install biopython via "pip install biopython"
+Then when the venv is activated run this command to install dependences:
+"$pip install -r requirements.txt"
