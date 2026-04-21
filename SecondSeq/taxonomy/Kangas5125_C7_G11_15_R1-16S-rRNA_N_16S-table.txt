@@ -1,6 +1,0 @@
-Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
-Kangas5125_C7_G11_15_R1-16S-rRNA-seqF	1434	gi|219846133|ref|NR_025723.1|	1440	5	1434	1	1431	0.0	2560	1431	1427	99.720	3	1	223184	Kocuria marina strain KMM 3905 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_C7_G11_15_R1-16S-rRNA-seqF	1434	gi|219846860|ref|NR_026452.1|	1471	14	1434	1	1420	0.0	2443	1421	1395	98.170	25	1	72000	Kocuria rhizophila strain TA68 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_C7_G11_15_R1-16S-rRNA-seqF	1434	gi|224581412|ref|NR_027193.1|	1515	1	1434	10	1444	0.0	2434	1438	1407	97.844	24	7	262208	Kocuria carniphila strain CCM 132 16S ribosomal RNA, partial sequence	plus	100
-Kangas5125_C7_G11_15_R1-16S-rRNA-seqF	1434	gi|265678989|ref|NR_029297.1|	1481	11	1434	7	1429	0.0	2432	1427	1397	97.898	23	7	1272	Kocuria varians strain G33 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_C7_G11_15_R1-16S-rRNA-seqF	1434	gi|636560206|ref|NR_116266.1|	1484	1	1434	1	1436	0.0	2423	1439	1406	97.707	25	8	501592	Kocuria gwangalliensis strain SJ2 16S ribosomal RNA, partial sequence	plus	100

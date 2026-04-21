@@ -1,6 +1,0 @@
-Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
-Kangas7925_JK10_R1-16S-rRNA-seqF	1457	gi|631252147|ref|NR_113345.1|	1473	7	1457	1	1451	0.0	2615	1451	1450	99.931	1	0	1283	Staphylococcus haemolyticus strain JCM 2416 16S ribosomal RNA, partial sequence	plus	99
-Kangas7925_JK10_R1-16S-rRNA-seqF	1457	gi|310975091|ref|NR_036955.1|	1544	1	1457	15	1469	0.0	2590	1457	1449	99.451	6	2	1283	Staphylococcus haemolyticus strain SM 131 16S ribosomal RNA, partial sequence	plus	100
-Kangas7925_JK10_R1-16S-rRNA-seqF	1457	gi|1018196584|ref|NR_136463.1|	1480	3	1457	1	1455	0.0	2577	1455	1444	99.244	11	0	1611836	Staphylococcus pragensis strain CCM 8529 16S ribosomal RNA, partial sequence	plus	99
-Kangas7925_JK10_R1-16S-rRNA-seqF	1457	gi|922788119|ref|NR_132590.1|	1546	1	1457	18	1474	0.0	2576	1457	1445	99.176	12	0	319942	Staphylococcus croceilyticus strain MCC10046 16S ribosomal RNA, partial sequence	plus	100
-Kangas7925_JK10_R1-16S-rRNA-seqF	1457	gi|636560567|ref|NR_116627.1|	1537	1	1457	16	1473	0.0	2572	1458	1446	99.177	11	1	586733	Staphylococcus devriesei strain KS-SP 60 16S ribosomal RNA, partial sequence	plus	100

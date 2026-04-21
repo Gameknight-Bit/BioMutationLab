@@ -1,6 +1,0 @@
-Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
-Kangas5125_A1_R2-16S-rRNA-seqF	1454	gi|310975092|ref|NR_036956.1|	1544	1	1454	17	1469	0.0	2596	1455	1450	99.656	2	3	1290	Staphylococcus hominis strain DM 122 16S ribosomal RNA, partial sequence	plus	100
-Kangas5125_A1_R2-16S-rRNA-seqF	1454	gi|343200636|ref|NR_041323.1|	1454	11	1454	2	1444	0.0	2588	1444	1441	99.792	2	1	145393	Staphylococcus hominis subsp. novobiosepticus strain GTC 1228 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_A1_R2-16S-rRNA-seqF	1454	gi|631252147|ref|NR_113345.1|	1473	5	1454	1	1451	0.0	2553	1451	1437	99.035	13	1	1283	Staphylococcus haemolyticus strain JCM 2416 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_A1_R2-16S-rRNA-seqF	1454	gi|645321498|ref|NR_118450.1|	1477	4	1454	1	1452	0.0	2553	1452	1438	99.036	13	1	1276936	Staphylococcus petrasii strain CCM 8418 16S ribosomal RNA, partial sequence	plus	99
-Kangas5125_A1_R2-16S-rRNA-seqF	1454	gi|636560567|ref|NR_116627.1|	1537	1	1454	18	1473	0.0	2538	1456	1438	98.764	16	2	586733	Staphylococcus devriesei strain KS-SP 60 16S ribosomal RNA, partial sequence	plus	100
